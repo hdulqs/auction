@@ -20,3 +20,5 @@ dist
 bin
 .DS_Store
 activator-sbt-*-shim.sbt
+.bloop
+.metals

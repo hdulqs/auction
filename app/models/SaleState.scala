@@ -1,6 +1,6 @@
 package models
 
-import TaggedIds._
+import models.TaggedIds.{LotId, SaleId}
 
 case class SaleState(
   saleId: SaleId,
